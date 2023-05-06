@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# programming 
 - 🌱 I’m currently learning C#
 
-<b> Try <\ b>
+<b> Try </b>
 
 <!---
 DimitarZhelyazkov/DimitarZhelyazkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
