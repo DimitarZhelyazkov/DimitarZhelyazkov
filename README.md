@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DimitarZhelyazkov
+- 👋 Hi, my name is Dimitar Zhelyazkov
 - 👀 I’m interested in C# programming 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# in Sonftwere University <a href="https://softuni.bg"><SoftUni></a>
 
 <b> Try </b>
 
