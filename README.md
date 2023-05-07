@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# programming 
 - 🌱 I’m currently learning C# in Software University <a href="https://softuni.bg">SoftUni</a>
 
-<b> LinkedIn Certificates:</b> <a href="https://www.linkedin.com/learning/certificates/8799a7379a7d6572b29774e886cbd06603ca7e3f9429436f60eae581096be2d7?trk=share_certificate"> Learning C# </a>
+<b> LinkedIn Certificates:</b> <a href="https://www.linkedin.com/learning/certificates/8799a7379a7d6572b29774e886cbd06603ca7e3f9429436f60eae581096be2d7?trk=share_certificate"> Learning C# </a> - <a href="https://www.linkedin.com/learning/certificates/3c19a43d13894db0ad2eb6309bda4b86ada495da3e1ca078c3445e50e8191f3f?trk=share_certificate">Types and Control Flow</a>
 
 
               
